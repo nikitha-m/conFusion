@@ -6,3 +6,25 @@ body{
     margin: 0%;
     font-family: Roboto, sans-serif;
 }
+
+.container {
+    margin: 2%;
+    display:flex;
+}
+.dishdetails{
+    margin: 5%;
+    position: relative;
+    margin-top: 0;
+    margin-left: 0;
+    display:flex;
+}
+.comments{
+    position: relative;
+    float: right;
+    width: 40%;
+    height: 60%;
+    
+}
+mat-list-item{
+    margin: 5%;
+}
